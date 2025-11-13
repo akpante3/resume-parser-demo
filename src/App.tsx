@@ -18,9 +18,7 @@ export default function App() {
       setResult(res);
       setStatus("idle");
       setMessage("");
-      console.log("parse result", res);
     } catch (err: any) {
-      console.error(err);
       setStatus("error");
       setMessage(err?.message || "An error occurred while parsing.");
     }

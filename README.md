@@ -23,7 +23,7 @@ This playground app helps you:
 Clone your main repository (if not already done):
 
 ```bash
-git clone https://github.com/yourusername/react-resume-parser.git
+git clone https://github.com/akpante3/resume-parser-demo.git
 
 npm i
 npm run dev
@@ -51,26 +51,6 @@ The parser works in any modern browser that supports:
 - ES2020+ JavaScript features
 
 
-## 🤝 Contributing
-
-If you’d like to improve the demo or fix an issue:
-
-- Fork the repo
-
-- Create your feature branch
-
-- Run the playground locally to test
-
-- Submit a PR 🚀
-
 ## ❤️ Built to make resume parsing simple, transparent, and developer-friendly.
-
-
-### ✅ Before you publish to GitHub:
-- Replace `yourusername` and author links.  
-- Commit this file as `playground/react-demo/README.md`.  
-- Optional: Add a screenshot or GIF of the playground in action right under the title for visual appeal.  
-
-Would you like me to include a short Markdown snippet with a **screenshot section** (so you can drop a `demo.png` or GIF later)? It makes your GitHub README really pop.
 
 
