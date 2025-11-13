@@ -74,4 +74,3 @@ If you’d like to improve the demo or fix an issue:
 Would you like me to include a short Markdown snippet with a **screenshot section** (so you can drop a `demo.png` or GIF later)? It makes your GitHub README really pop.
 
 
-# resume-parser-demo
