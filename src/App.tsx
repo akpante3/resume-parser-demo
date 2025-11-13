@@ -46,10 +46,9 @@ export default function App() {
           {result.warnings.map((w: any) => <div key={w.code}>⚠️ {w.message}</div>)}
         </div>}
 
-
-      <h1>Example Result in JSON:</h1>
       {result && (
         <div style={{ marginTop: 24 }}>
+          <h1>Example Result in JSON:</h1>
           <ReactJsonPretty data={result} />
         </div>
       )}
